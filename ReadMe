@@ -2,12 +2,12 @@ viagogo Intern/Graduate Developer Test Results
 
 How to Run: 
 The project was build in the community version of visual studios 2015 . 
-Extract entire folder
+Download the .zip and Extract the entire folder
 Launch visual studios 2015
 Click file and open project > Project/Solution 
-Then navigate to the visual C# project file provided and click on it
+Then navigate to the visual studios project file provided and click on it
 This should open the project and the classes
-Clicking the start button will run the project
+Clicking the start button on the top bar will run the project
 NOTE:
 There should be five C# files accompanying this project
 1.	Program
