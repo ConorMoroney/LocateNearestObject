@@ -1,0 +1,13 @@
+c:\users\conor\documents\visual studio 2015\Projects\ViagogoDevApp\ViagogoDevApp\bin\Debug\ViagogoDevApp.exe.config
+c:\users\conor\documents\visual studio 2015\Projects\ViagogoDevApp\ViagogoDevApp\bin\Debug\ViagogoDevApp.exe
+c:\users\conor\documents\visual studio 2015\Projects\ViagogoDevApp\ViagogoDevApp\bin\Debug\ViagogoDevApp.pdb
+c:\users\conor\documents\visual studio 2015\Projects\ViagogoDevApp\ViagogoDevApp\obj\Debug\ViagogoDevApp.csprojResolveAssemblyReference.cache
+c:\users\conor\documents\visual studio 2015\Projects\ViagogoDevApp\ViagogoDevApp\obj\Debug\ViagogoDevApp.exe
+c:\users\conor\documents\visual studio 2015\Projects\ViagogoDevApp\ViagogoDevApp\obj\Debug\ViagogoDevApp.pdb
+C:\Users\Conor\documents\visual studio 2015\Projects\ViagogoDevApp\ViagogoDevApp\bin\Debug\ViagogoDevApp.exe.manifest
+C:\Users\Conor\documents\visual studio 2015\Projects\ViagogoDevApp\ViagogoDevApp\bin\Debug\ViagogoDevApp.application
+C:\Users\Conor\documents\visual studio 2015\Projects\ViagogoDevApp\ViagogoDevApp\obj\Debug\ViagogoDevApp.exe.manifest
+C:\Users\Conor\documents\visual studio 2015\Projects\ViagogoDevApp\ViagogoDevApp\obj\Debug\ViagogoDevApp.application
+C:\Users\Conor\Source\Repos\ViagogoAppDev\ViagogoDevApp\ViagogoDevApp\bin\Debug\ViagogoDevApp.exe.config
+C:\Users\Conor\Source\Repos\ViagogoAppDev\ViagogoDevApp\ViagogoDevApp\obj\Debug\ViagogoDevApp.exe
+C:\Users\Conor\Source\Repos\ViagogoAppDev\ViagogoDevApp\ViagogoDevApp\obj\Debug\ViagogoDevApp.pdb
