@@ -30,7 +30,7 @@ namespace ViagogoDevApp
         }
         public void printEvent(Event _event)
         {
-            Console.WriteLine("Event " + _event.id.ToString().PadLeft(3,'0') + "- $" + _event.value.ToString().PadLeft(5, '0') + ",Distance " + _event.distance + "\n");
+            Console.WriteLine("Event " + _event.id.ToString().PadLeft(3,'0') + "- $" + _event.value + ",Distance " + _event.distance + "\n");
         }
     }
 }
