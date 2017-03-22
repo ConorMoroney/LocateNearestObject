@@ -1,0 +1,32 @@
+viagogo Intern/Graduate Developer Test Results
+
+How to Run: 
+The project was build in the community version of visual studios 2015 . 
+Extract entire folder
+Launch visual studios 2015
+Click file and open project > Project/Solution 
+Then navigate to the visual C# project file provided and click on it
+This should open the project and the classes
+Clicking the start button will run the project
+NOTE:
+There should be five C# files accompanying this project
+1.	Program
+2.	GenSeed
+3.	Event
+4.	CalculateDistance
+5.	PrintOutput
+
+Assumptions:
+•	As the world operated within a -10 to +10 on the x and y axis, I represented this as a 21*21 2d array.
+•	I generated a random number of events between 10-20 just to give a reasonable spread of events without overcrowding the space 
+•	The ticket price was just a random number that wouldn’t be too excessive 
+•	I calculated the Manhattan as shown: 	distance = |x1-x2| + |y1-y2| 
+•	I Assumed for this demonstration only minor error handling would be necessary e.g. number outside the matrix area, inputting letters instead of numbers Etc. 
+•	I assumed the only correct input format was the one shown in the example. No special characters, brackets Etc. around the coordinates and only being separated by a comma.
+•	 
+- How might you change your program if you needed to support multiple events at the same location?
+To support multiple events at a location I would change the 2d array ‘World Space’ to be a single list of the events. This would remove the need to filter out the null instances in the 2d array but would remove the functionality to print the map to the console.
+- How would you change your program if you were working with a much larger world size?
+I would create a ‘region’ variable for each of the events and limit the size to something the system could process within a suitable timeframe, then when the user input the location the system would exclude everything outside of the region and then proceed to calculate the distances of the remaining options
+
+
